@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/app-rr/static/css/main.8f2c44fb.chunk.css",
+    "main.js": "/app-rr/static/js/main.2fcf0767.chunk.js",
+    "main.js.map": "/app-rr/static/js/main.2fcf0767.chunk.js.map",
+    "runtime-main.js": "/app-rr/static/js/runtime-main.8a64c561.js",
+    "runtime-main.js.map": "/app-rr/static/js/runtime-main.8a64c561.js.map",
+    "static/js/2.09168819.chunk.js": "/app-rr/static/js/2.09168819.chunk.js",
+    "static/js/2.09168819.chunk.js.map": "/app-rr/static/js/2.09168819.chunk.js.map",
+    "index.html": "/app-rr/index.html",
+    "precache-manifest.7c70f743d95a96dd6479f5c80104fb37.js": "/app-rr/precache-manifest.7c70f743d95a96dd6479f5c80104fb37.js",
+    "service-worker.js": "/app-rr/service-worker.js",
+    "static/css/main.8f2c44fb.chunk.css.map": "/app-rr/static/css/main.8f2c44fb.chunk.css.map",
+    "static/js/2.09168819.chunk.js.LICENSE.txt": "/app-rr/static/js/2.09168819.chunk.js.LICENSE.txt",
+    "static/media/mountain_canion.jpg": "/app-rr/static/media/mountain_canion.77f4e3eb.jpg",
+    "static/media/mountain_car.jpg": "/app-rr/static/media/mountain_car.85fe770c.jpg",
+    "static/media/mountain_winter.jpg": "/app-rr/static/media/mountain_winter.e8338c26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a64c561.js",
+    "static/js/2.09168819.chunk.js",
+    "static/css/main.8f2c44fb.chunk.css",
+    "static/js/main.2fcf0767.chunk.js"
+  ]
+}
